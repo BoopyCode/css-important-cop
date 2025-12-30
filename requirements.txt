@@ -1,0 +1,2 @@
+# No dependencies needed! Just Node.js
+# (Because adding dependencies would be... important)
